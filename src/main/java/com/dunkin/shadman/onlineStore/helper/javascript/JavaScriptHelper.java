@@ -38,7 +38,7 @@ public class JavaScriptHelper {
 	 * This method will execute script by script and any arguments
 	 * @param script
 	 * @param args
-	 * @return
+	 * @return 
 	 */
 	
 	public Object executeScript(String script, Object...args) {
