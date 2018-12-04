@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="regressionSuite">
+	<listeners>
+		<!-- <listener class-name="com.dunkin.shadman.onlineStore.helper.listener.RetryListener"></listener> -->
+		<listener class-name="com.dunkin.shadman.onlineStore.helper.listener.ExtentListener"></listener>
+	</listeners>
+	
+	<test name="TestA">
+		<classes>
+			<class name="com.dunkin.TestA"></class>
+		</classes>
+	</test>
+	
+	<test name="TestB">
+		<classes>
+			<class name="com.dunkin.TestB"></class>
+		</classes>
+	</test>
+	
+	<test name="TestC">
+		<classes>
+			<class name="com.dunkin.TestC"></class>
+		</classes>
+	</test>
+	
+	<test name="TestScreenShot">
+		<classes>
+			<class name="com.dunkin.shadman.onlineStore.testScripts.TestScreenShot"></class>
+		</classes>
+	</test>
+</suite>

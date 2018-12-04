@@ -1,0 +1,683 @@
+56-15-2018 21:10:97 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+56-15-2018 21:10:106 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+56-15-2018 21:10:111 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+56-15-2018 21:10:140 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+56-15-2018 21:10:147 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+56-15-2018 21:10:151 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+00-15-2018 22:10:664 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+00-15-2018 22:10:677 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+00-15-2018 22:10:681 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+00-15-2018 22:10:714 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+00-15-2018 22:10:719 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+00-15-2018 22:10:724 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-15-2018 22:10:460 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-15-2018 22:10:470 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-15-2018 22:10:474 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-15-2018 22:10:503 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-15-2018 22:10:506 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-15-2018 22:10:511 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:40 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:52 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:58 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:85 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:90 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:93 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:709 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:720 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:725 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:750 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:755 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:759 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:470 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:482 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:504 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:793 INFO  Retry:17 - Retrying test loginTestB with status FAILURE for the 1times
+10-16-2018 10:10:808 INFO  Retry:17 - Retrying test loginTestB with status FAILURE for the 2times
+10-16-2018 10:10:832 INFO  Retry:17 - Retrying test loginTestC with status FAILURE for the 1times
+10-21-2018 10:10:340 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:175 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:181 INFO  ExcelHelper:49 - Added: cell number [0][0]->Table 1
+10-21-2018 10:10:181 INFO  ExcelHelper:64 - Error: cell number [0][1]: cell data type not matched
+10-21-2018 10:10:181 INFO  ExcelHelper:64 - Error: cell number [0][2]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][3]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][4]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][5]: cell data type not matched
+10-21-2018 10:10:183 INFO  ExcelHelper:64 - Error: cell number [0][6]: cell data type not matched
+10-21-2018 10:10:183 INFO  ExcelHelper:49 - Added: cell number [1][0]->Username
+10-21-2018 10:10:184 INFO  ExcelHelper:49 - Added: cell number [1][1]->Password
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][2]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][3]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][4]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][5]: cell data type not matched
+10-21-2018 10:10:185 INFO  ExcelHelper:64 - Error: cell number [1][6]: cell data type not matched
+10-21-2018 10:10:186 INFO  ExcelHelper:49 - Added: cell number [2][0]->shadman
+10-21-2018 10:10:187 INFO  ExcelHelper:49 - Added: cell number [2][1]->shadmanPass
+10-21-2018 10:10:187 INFO  ExcelHelper:64 - Error: cell number [2][2]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][3]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][4]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][5]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][6]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:49 - Added: cell number [3][0]->saleh
+10-21-2018 10:10:189 INFO  ExcelHelper:49 - Added: cell number [3][1]->Pass
+10-21-2018 10:10:189 INFO  ExcelHelper:64 - Error: cell number [3][2]: cell data type not matched
+10-21-2018 10:10:189 INFO  ExcelHelper:64 - Error: cell number [3][3]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][4]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][5]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][6]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:49 - Added: cell number [4][0]->shahriyar
+10-21-2018 10:10:191 INFO  ExcelHelper:49 - Added: cell number [4][1]->shahriyarPass
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][2]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][3]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][4]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][5]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][6]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][0]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][1]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][2]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][3]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][4]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [5][5]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [5][6]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][0]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][1]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][2]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][3]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][4]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][5]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][6]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [7][0]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][1]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][2]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][3]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][4]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][5]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][6]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][0]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][1]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][2]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][3]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][4]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][5]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [8][6]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][0]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][1]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][2]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][3]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][4]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][5]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][6]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][0]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][1]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][2]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][3]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][4]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][5]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][6]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [11][0]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [11][1]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][2]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][3]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][4]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][5]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][6]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [12][0]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][1]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][2]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][3]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][4]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [12][5]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [12][6]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][0]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][1]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][2]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][3]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][4]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][5]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][6]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [14][0]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [14][1]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][2]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][3]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][4]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [14][5]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [14][6]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [15][0]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][1]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][2]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][3]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][4]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][5]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][6]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [16][0]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][1]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][2]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][3]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][4]: cell data type not matched
+10-21-2018 10:10:209 INFO  ExcelHelper:64 - Error: cell number [16][5]: cell data type not matched
+10-21-2018 10:10:209 INFO  ExcelHelper:64 - Error: cell number [16][6]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][0]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][1]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][2]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][3]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][4]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][5]: cell data type not matched
+10-21-2018 10:10:212 INFO  ExcelHelper:64 - Error: cell number [17][6]: cell data type not matched
+10-21-2018 10:10:213 INFO  ExcelHelper:64 - Error: cell number [18][0]: cell data type not matched
+10-21-2018 10:10:213 INFO  ExcelHelper:64 - Error: cell number [18][1]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][2]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][3]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][4]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][5]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [18][6]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [19][0]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [19][1]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][2]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][3]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][4]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [19][5]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [19][6]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [20][0]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [20][1]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][2]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][3]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][4]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][5]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][6]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [21][0]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][1]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][2]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][3]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][4]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][5]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][6]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [22][0]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [22][1]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][2]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][3]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][4]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][5]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][6]: cell data type not matched
+10-21-2018 10:10:239 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:958 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:966 INFO  ExcelHelper:49 - Added: cell number [0][0]->Table 1
+10-21-2018 10:10:967 INFO  ExcelHelper:64 - Error: cell number [0][1]: cell data type not matched
+10-21-2018 10:10:967 INFO  ExcelHelper:64 - Error: cell number [0][2]: cell data type not matched
+10-21-2018 10:10:968 INFO  ExcelHelper:64 - Error: cell number [0][3]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][4]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][5]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][6]: cell data type not matched
+10-21-2018 10:10:970 INFO  ExcelHelper:49 - Added: cell number [1][0]->Username
+10-21-2018 10:10:971 INFO  ExcelHelper:49 - Added: cell number [1][1]->Password
+10-21-2018 10:10:971 INFO  ExcelHelper:64 - Error: cell number [1][2]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][3]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][4]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][5]: cell data type not matched
+10-21-2018 10:10:973 INFO  ExcelHelper:64 - Error: cell number [1][6]: cell data type not matched
+10-21-2018 10:10:975 INFO  ExcelHelper:49 - Added: cell number [2][0]->shadman
+10-21-2018 10:10:976 INFO  ExcelHelper:49 - Added: cell number [2][1]->shadmanPass
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][2]: cell data type not matched
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][3]: cell data type not matched
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][4]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:64 - Error: cell number [2][5]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:64 - Error: cell number [2][6]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:49 - Added: cell number [3][0]->saleh
+10-21-2018 10:10:978 INFO  ExcelHelper:49 - Added: cell number [3][1]->Pass
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][2]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][3]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][4]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][5]: cell data type not matched
+10-21-2018 10:10:980 INFO  ExcelHelper:64 - Error: cell number [3][6]: cell data type not matched
+10-21-2018 10:10:980 INFO  ExcelHelper:49 - Added: cell number [4][0]->shahriyar
+10-21-2018 10:10:981 INFO  ExcelHelper:49 - Added: cell number [4][1]->shahriyarPass
+10-21-2018 10:10:981 INFO  ExcelHelper:64 - Error: cell number [4][2]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][3]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][4]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][5]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][6]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][0]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][1]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][2]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][3]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][4]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][5]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [5][6]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][0]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][1]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][2]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][3]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][4]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][5]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [6][6]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][0]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][1]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][2]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][3]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][4]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][5]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][6]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [8][0]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][1]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][2]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][3]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][4]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [8][5]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [8][6]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [9][0]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][1]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][2]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][3]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][4]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][5]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [9][6]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][0]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][1]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][2]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][3]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][4]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][5]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][6]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][0]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][1]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][2]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][3]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][4]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][5]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][6]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][0]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][1]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][2]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][3]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][4]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][5]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][6]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][0]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][1]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][2]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][3]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][4]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][5]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][6]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][0]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][1]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][2]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][3]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][4]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [14][5]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [14][6]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [15][0]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [15][1]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][2]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][3]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][4]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][5]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][6]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][0]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][1]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][2]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][3]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][4]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [16][5]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [16][6]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][0]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][1]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][2]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][3]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][4]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][5]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][6]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][0]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][1]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][2]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][3]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][4]: cell data type not matched
+10-21-2018 10:10:04 INFO  ExcelHelper:64 - Error: cell number [18][5]: cell data type not matched
+10-21-2018 10:10:04 INFO  ExcelHelper:64 - Error: cell number [18][6]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][0]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][1]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][2]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][3]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][4]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][5]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][6]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [20][0]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [20][1]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][2]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][3]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][4]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][5]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][6]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [21][0]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][1]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][2]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][3]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][4]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][5]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][6]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [22][0]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [22][1]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][2]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][3]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][4]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][5]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][6]: cell data type not matched
+10-21-2018 10:10:981 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:681 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:687 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 10:10:688 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 10:10:688 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 10:10:689 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 10:10:691 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 10:10:691 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 10:10:693 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 10:10:693 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 10:10:943 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:588 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:593 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 10:10:594 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 10:10:594 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 10:10:595 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 10:10:597 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 10:10:597 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 10:10:598 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 10:10:599 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 12:10:223 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 12:10:20 INFO  ExcelHelper:30 - Success!
+10-21-2018 12:10:26 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 12:10:26 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 12:10:27 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 12:10:27 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 12:10:29 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 12:10:30 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 12:10:31 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 12:10:32 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 21:10:228 INFO  AssertionHelper:28 - making test passed
+10-21-2018 21:10:242 INFO  AssertionHelper:47 - making test failed
+10-21-2018 21:10:259 INFO  AssertionHelper:28 - making test passed
+10-21-2018 21:10:265 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:590 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:916 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:13 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:117 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:430 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:741 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:97 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:400 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:280 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:575 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:841 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:167 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:241 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:300 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:371 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:424 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:479 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:548 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:961 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:251 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:252 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 1times
+10-21-2018 22:10:330 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:331 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 2times
+10-21-2018 22:10:424 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:425 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 3times
+10-21-2018 22:10:515 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:582 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:652 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:656 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 1times
+10-21-2018 22:10:729 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:730 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 2times
+10-21-2018 22:10:778 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:778 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 3times
+10-21-2018 22:10:832 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:863 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:902 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:902 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 1times
+10-21-2018 22:10:953 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:959 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 2times
+10-21-2018 22:10:09 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:09 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 3times
+10-21-2018 22:10:59 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:103 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:148 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:149 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 1times
+10-21-2018 22:10:182 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:183 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 2times
+10-21-2018 22:10:254 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:255 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 3times
+10-21-2018 22:10:295 INFO  AssertionHelper:47 - making test failed
+10-22-2018 16:10:891 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:895 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:999 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:815 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:820 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:903 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:41 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:46 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:364 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:207 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:211 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:287 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:127 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:131 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:283 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:677 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:681 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:632 INFO  TestBase:100 - Browser is being initialized746074699
+10-22-2018 16:10:636 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:647 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:654 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:171 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:175 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:160 INFO  TestBase:100 - Browser is being initialized127791068
+10-22-2018 16:10:162 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:174 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:179 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:307 INFO  TestBase:124 - Taking ScreenShot
+10-22-2018 16:10:375 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:379 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:229 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:231 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:239 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:244 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:620 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 16:10:277 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:280 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:152 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:154 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:165 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:170 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:423 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 16:10:460 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:463 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:464 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:466 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:475 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:479 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:87 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 17:10:937 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 17:10:943 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 17:10:77 INFO  TestBase:105 - Browser is being initialized1901238627
+10-22-2018 17:10:81 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 17:10:90 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 17:10:95 INFO  WaitHelper:159 - page is loaded
+10-22-2018 17:10:419 INFO  TestBase:129 - Taking ScreenShot
+10-22-2018 17:10:308 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 17:10:311 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 17:10:204 INFO  TestBase:107 - Browser is being initialized1901238627
+10-22-2018 17:10:206 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 17:10:216 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 17:10:222 INFO  WaitHelper:159 - page is loaded
+10-22-2018 17:10:382 INFO  TestBase:131 - Taking ScreenShot
+10-22-2018 17:10:838 INFO  TestBase:131 - Taking ScreenShot
+10-23-2018 16:10:848 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:872 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:878 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:421 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:441 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:444 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:458 INFO  ExtentListener:24 - TestA test finished...
+10-23-2018 16:10:461 INFO  ExtentListener:31 - TestB test started...
+10-23-2018 16:10:463 INFO  ExtentListener:54 - loginTestB test started...
+10-23-2018 16:10:468 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:479 INFO  ExtentListener:24 - TestB test finished...
+10-23-2018 16:10:481 INFO  ExtentListener:31 - TestC test started...
+10-23-2018 16:10:483 INFO  ExtentListener:54 - loginTestC test started...
+10-23-2018 16:10:485 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:490 INFO  ExtentListener:24 - TestC test finished...
+10-23-2018 16:10:492 INFO  ExtentListener:31 - TestScreenShot test started...
+10-23-2018 16:10:494 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-23-2018 16:10:495 INFO  PropertyReader:25 - Property file loaded
+10-23-2018 16:10:691 INFO  TestBase:109 - Browser is being initialized502838712
+10-23-2018 16:10:695 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-23-2018 16:10:704 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-23-2018 16:10:708 INFO  WaitHelper:159 - page is loaded
+10-23-2018 16:10:900 INFO  ExtentListener:54 - testScreen test started...
+10-23-2018 16:10:268 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:282 INFO  ExtentListener:60 - testScreen test passed...
+10-23-2018 16:10:708 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:35 INFO  ExtentListener:24 - TestScreenShot test finished...
+10-23-2018 16:10:807 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:830 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:833 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:846 INFO  ExtentListener:24 - TestA test finished...
+10-23-2018 16:10:848 INFO  ExtentListener:31 - TestB test started...
+10-23-2018 16:10:850 INFO  ExtentListener:54 - loginTestB test started...
+10-23-2018 16:10:854 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:863 INFO  ExtentListener:24 - TestB test finished...
+10-23-2018 16:10:864 INFO  ExtentListener:31 - TestC test started...
+10-23-2018 16:10:866 INFO  ExtentListener:54 - loginTestC test started...
+10-23-2018 16:10:869 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:874 INFO  ExtentListener:24 - TestC test finished...
+10-23-2018 16:10:875 INFO  ExtentListener:31 - TestScreenShot test started...
+10-23-2018 16:10:877 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-23-2018 16:10:878 INFO  PropertyReader:25 - Property file loaded
+10-23-2018 16:10:671 INFO  TestBase:109 - Browser is being initialized502838712
+10-23-2018 16:10:674 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-23-2018 16:10:685 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-23-2018 16:10:691 INFO  WaitHelper:159 - page is loaded
+10-23-2018 16:10:874 INFO  ExtentListener:54 - testScreen test started...
+10-23-2018 16:10:21 INFO  ExtentListener:60 - testScreen test passed...
+10-23-2018 16:10:797 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:131 INFO  ExtentListener:24 - TestScreenShot test finished...
+10-24-2018 03:10:338 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:345 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:551 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:554 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:554 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:555 INFO  DatabaseHelper:70 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:211 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:217 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:396 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:399 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:399 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:399 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:43 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:47 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:248 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:250 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:251 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:251 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:203 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:212 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:599 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:602 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:309 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:314 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:403 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:407 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:635 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:640 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:934 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+10-24-2018 03:10:940 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:940 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:941 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:233 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:237 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:38 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:64 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:66 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:66 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:193 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:198 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:537 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:539 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:540 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:540 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:293 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:301 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:624 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:627 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:627 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:627 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:271 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:275 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:584 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:586 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:587 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:587 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:202 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:217 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:616 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:618 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:618 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:619 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:628 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:628 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 03:10:134 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:138 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:463 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:466 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:466 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:467 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:471 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:471 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 03:10:819 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:828 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:199 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:202 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:202 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:203 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:208 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:208 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 14:10:966 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 14:10:970 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 14:10:299 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 14:10:301 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 14:10:302 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 14:10:302 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 14:10:306 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 14:10:306 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 18:10:334 INFO  ExtentListener:31 - TestA test started...
+10-24-2018 18:10:357 INFO  ExtentListener:54 - loginTest test started...
+10-24-2018 18:10:363 INFO  ExtentListener:60 - loginTest test passed...
+10-24-2018 18:10:386 INFO  ExtentListener:24 - TestA test finished...
+10-24-2018 18:10:389 INFO  ExtentListener:31 - TestB test started...
+10-24-2018 18:10:392 INFO  ExtentListener:54 - loginTestB test started...
+10-24-2018 18:10:399 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-24-2018 18:10:408 INFO  ExtentListener:24 - TestB test finished...
+10-24-2018 18:10:410 INFO  ExtentListener:31 - TestC test started...
+10-24-2018 18:10:413 INFO  ExtentListener:54 - loginTestC test started...
+10-24-2018 18:10:417 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-24-2018 18:10:422 INFO  ExtentListener:24 - TestC test finished...
+10-24-2018 18:10:424 INFO  ExtentListener:31 - TestScreenShot test started...
+10-24-2018 18:10:425 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-24-2018 18:10:426 INFO  PropertyReader:25 - Property file loaded
+10-24-2018 18:10:749 INFO  TestBase:119 - Browser is being initialized932257672
+10-24-2018 18:10:752 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-24-2018 18:10:758 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-24-2018 18:10:763 INFO  WaitHelper:159 - page is loaded
+10-24-2018 18:10:960 INFO  ExtentListener:54 - testScreen test started...
+10-24-2018 18:10:860 INFO  ExtentListener:60 - testScreen test passed...
+10-24-2018 18:10:07 INFO  TestBase:143 - Taking ScreenShot
+10-24-2018 18:10:387 INFO  TestBase:91 - driver is quiting
+10-24-2018 18:10:537 INFO  TestBase:93 - driver quit
+10-24-2018 18:10:545 INFO  ExtentListener:24 - TestScreenShot test finished...
